@@ -37,7 +37,7 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "c1x259"
+          project: "c1x259-deepsider2a-54"
           entrypoint: "main.ts"
           root: ""
           
